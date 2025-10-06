@@ -1,0 +1,110 @@
+,date,home_team,away_team,home_score,away_score,tournament
+0,1969-11-01,Italy,France,1,0,Euro
+1,1969-11-01,Denmark,England,4,3,Euro
+2,1969-11-02,England,France,2,0,Euro
+3,1969-11-02,Italy,Denmark,3,1,Euro
+4,1975-08-25,Thailand,Australia,3,2,AFC Championship
+5,1975-08-25,Hong Kong,New Zealand,0,2,AFC Championship
+6,1975-08-27,Thailand,Singapore,3,0,AFC Championship
+7,1975-08-27,New Zealand,Malaysia,3,0,AFC Championship
+8,1975-08-29,Australia,Singapore,3,0,AFC Championship
+9,1975-08-29,Hong Kong,Malaysia,0,2,AFC Championship
+10,1975-08-31,New Zealand,Australia,3,2,AFC Championship
+11,1975-08-31,Thailand,Malaysia,3,0,AFC Championship
+12,1975-09-02,Australia,Malaysia,5,0,AFC Championship
+13,1975-09-02,New Zealand,Thailand,3,1,AFC Championship
+14,1977-08-02,Taiwan,Indonesia,5,0,AFC Championship
+15,1977-08-03,Thailand,Singapore,2,0,AFC Championship
+16,1977-08-05,Indonesia,Japan,1,0,AFC Championship
+17,1977-08-05,Thailand,Hong Kong,5,0,AFC Championship
+18,1977-08-07,Taiwan,Japan,7,0,AFC Championship
+19,1977-08-07,Singapore,Hong Kong,1,0,AFC Championship
+20,1977-08-09,Taiwan,Singapore,3,0,AFC Championship
+21,1977-08-09,Thailand,Indonesia,2,1,AFC Championship
+22,1977-08-11,Singapore,Indonesia,2,0,AFC Championship
+23,1977-08-11,Taiwan,Thailand,1,0,AFC Championship
+24,1979-07-18,Italy,Northern Ireland,4,0,Euro
+25,1979-07-18,Denmark,France,3,1,Euro
+26,1979-07-19,England,Finland,3,1,Euro
+27,1979-07-19,Sweden,Wales,3,0,Euro
+28,1979-07-20,Northern Ireland,Norway,1,4,Euro
+29,1979-07-20,France,Scotland,0,0,Euro
+30,1979-07-21,Switzerland,Finland,1,1,Euro
+31,1979-07-21,Wales,Netherlands,0,2,Euro
+32,1979-07-22,Italy,Norway,2,1,Euro
+33,1979-07-22,Denmark,Scotland,2,0,Euro
+34,1979-07-23,England,Switzerland,2,0,Euro
+35,1979-07-23,Sweden,Netherlands,1,1,Euro
+36,1979-07-25,Italy,England,3,1,Euro
+37,1979-07-25,Denmark,Sweden,1,0,Euro
+38,1979-07-27,Sweden,England,0,0,Euro
+39,1979-07-28,Italy,Denmark,0,2,Euro
+40,1980-01-11,India S,Western Australia,2,0,AFC Championship
+41,1980-01-12,India N,Taiwan,0,5,AFC Championship
+42,1980-01-12,India S,Hong Kong,2,0,AFC Championship
+43,1980-01-13,Taiwan,Malaysia,2,0,AFC Championship
+44,1980-01-13,India N,Western Australia,0,3,AFC Championship
+45,1980-01-14,Western Australia,Malaysia,1,0,AFC Championship
+46,1980-01-14,India N,Hong Kong,1,0,AFC Championship
+47,1980-01-15,India S,Taiwan,0,0,AFC Championship
+48,1980-01-15,Hong Kong,Malaysia,2,1,AFC Championship
+49,1980-01-16,India S,India N,1,0,AFC Championship
+50,1980-01-16,Taiwan,Western Australia,2,0,AFC Championship
+51,1980-01-17,Taiwan,Hong Kong,3,0,AFC Championship
+52,1980-01-17,India N,Malaysia,0,3,AFC Championship
+53,1980-01-18,Hong Kong,Western Australia,1,0,AFC Championship
+54,1980-01-18,India S,Malaysia,0,0,AFC Championship
+55,1980-01-19,Taiwan,Western Australia,5,0,AFC Championship
+56,1980-01-19,India S,Hong Kong,3,1,AFC Championship
+57,1980-01-20,India S,Taiwan,0,2,AFC Championship
+58,1981-06-07,Hong Kong,Philippines,2,0,AFC Championship
+59,1981-06-07,Taiwan,Japan,1,0,AFC Championship
+60,1981-06-08,India,Singapore,5,0,AFC Championship
+61,1981-06-08,Thailand,Indonesia,3,0,AFC Championship
+62,1981-06-10,Hong Kong,Singapore,1,0,AFC Championship
+63,1981-06-10,India,Philippines,8,0,AFC Championship
+64,1981-06-11,Taiwan,Indonesia,10,0,AFC Championship
+65,1981-06-11,Thailand,Japan,2,0,AFC Championship
+66,1981-06-12,Hong Kong,India,0,0,AFC Championship
+67,1981-06-12,Singapore,Philippines,4,1,AFC Championship
+68,1981-06-13,Taiwan,Thailand,3,0,AFC Championship
+69,1981-06-13,Japan,Indonesia,1,0,AFC Championship
+70,1981-06-15,Thailand,India,1,0,AFC Championship
+71,1981-06-15,Hong Kong,Taiwan,0,1,AFC Championship
+72,1981-06-17,Hong Kong,India,0,2,AFC Championship
+73,1981-06-17,Thailand,Taiwan,0,5,AFC Championship
+74,1982-08-18,Finland,Sweden,0,6,UEFA Euro qualification
+75,1982-08-28,Norway,Iceland,2,2,UEFA Euro qualification
+76,1982-09-04,Northern Ireland,Scotland,1,2,UEFA Euro qualification
+77,1982-09-09,Iceland,Sweden,0,6,UEFA Euro qualification
+78,1982-09-15,Finland,Norway,0,3,UEFA Euro qualification
+79,1982-09-19,England,Northern Ireland,7,1,UEFA Euro qualification
+80,1982-09-19,Scotland,Republic of Ireland,3,0,UEFA Euro qualification
+81,1982-09-25,Belgium,Netherlands,3,2,UEFA Euro qualification
+82,1982-09-29,Sweden,Norway,2,0,UEFA Euro qualification
+83,1982-10-02,Northern Ireland,Republic of Ireland,1,2,UEFA Euro qualification
+84,1982-10-03,Scotland,England,0,4,UEFA Euro qualification
+85,1982-10-10,Switzerland,Portugal,2,0,UEFA Euro qualification
+86,1982-10-13,Netherlands,Denmark,2,1,UEFA Euro qualification
+87,1982-10-30,France,Italy,1,0,UEFA Euro qualification
+88,1982-11-06,Denmark,Belgium,1,0,UEFA Euro qualification
+89,1982-11-07,Republic of Ireland,England,0,1,UEFA Euro qualification
+90,1982-11-14,Italy,Portugal,3,0,UEFA Euro qualification
+91,1982-12-04,Portugal,France,0,0,UEFA Euro qualification
+92,1983-02-12,France,Portugal,2,0,UEFA Euro qualification
+93,1983-03-05,Germany,Belgium,1,1,UEFA Euro qualification
+94,1983-03-18,Republic of Ireland,Scotland,1,1,UEFA Euro qualification
+95,1983-03-19,Netherlands,Germany,2,2,UEFA Euro qualification
+96,1983-04-03,Portugal,Switzerland,1,1,UEFA Euro qualification
+97,1983-04-10,Thailand,Malaysia,8,0,AFC Championship
+98,1983-04-10,India,Philippines,5,0,AFC Championship
+99,1983-04-10,Singapore,Hong Kong,2,0,AFC Championship
+100,1983-04-11,Thailand,Singapore,3,0,AFC Championship
+101,1983-04-11,India,Hong Kong,1,0,AFC Championship
+102,1983-04-11,Malaysia,Philippines,1,0,AFC Championship
+103,1983-04-12,Singapore,Philippines,5,0,AFC Championship
+104,1983-04-12,Thailand,Hong Kong,4,0,AFC Championship
+105,1983-04-12,India,Malaysia,3,0,AFC Championship
+106,1983-04-14,Singapore,Malaysia,5,1,AFC Championship
+107,1983-04-14,Philippines,Hong Kong,2,0,AFC Championship
+108,1983-04-14,Thailand,India,2,1,AFC Championship

@@ -1,0 +1,110 @@
+,date,home_team,away_team,home_score,away_score,tournament
+0,1872-11-30,Scotland,England,0,0,Friendly
+1,1873-03-08,England,Scotland,4,2,Friendly
+2,1874-03-07,Scotland,England,2,1,Friendly
+3,1875-03-06,England,Scotland,2,2,Friendly
+4,1876-03-04,Scotland,England,3,0,Friendly
+5,1876-03-25,Scotland,Wales,4,0,Friendly
+6,1877-03-03,England,Scotland,1,3,Friendly
+7,1877-03-05,Wales,Scotland,0,2,Friendly
+8,1878-03-02,Scotland,England,7,2,Friendly
+9,1878-03-23,Scotland,Wales,9,0,Friendly
+10,1879-01-18,England,Wales,2,1,Friendly
+11,1879-04-05,England,Scotland,5,4,Friendly
+12,1879-04-07,Wales,Scotland,0,3,Friendly
+13,1880-03-13,Scotland,England,5,4,Friendly
+14,1880-03-15,Wales,England,2,3,Friendly
+15,1880-03-27,Scotland,Wales,5,1,Friendly
+16,1881-02-26,England,Wales,0,1,Friendly
+17,1881-03-12,England,Scotland,1,6,Friendly
+18,1881-03-14,Wales,Scotland,1,5,Friendly
+19,1882-02-18,Northern Ireland,England,0,13,Friendly
+20,1882-02-25,Wales,Northern Ireland,7,1,Friendly
+21,1882-03-11,Scotland,England,5,1,Friendly
+22,1882-03-13,Wales,England,5,3,Friendly
+23,1882-03-25,Scotland,Wales,5,0,Friendly
+24,1883-02-03,England,Wales,5,0,Friendly
+25,1883-02-24,England,Northern Ireland,7,0,Friendly
+26,1883-03-10,England,Scotland,2,3,Friendly
+27,1883-03-12,Wales,Scotland,0,3,Friendly
+28,1883-03-17,Northern Ireland,Wales,1,1,Friendly
+29,1884-01-26,Northern Ireland,Scotland,0,5,British Home Championship
+30,1884-02-09,Wales,Northern Ireland,6,0,British Home Championship
+31,1884-02-23,Northern Ireland,England,1,8,British Home Championship
+32,1884-03-15,Scotland,England,1,0,British Home Championship
+33,1884-03-17,Wales,England,0,4,British Home Championship
+34,1884-03-29,Scotland,Wales,4,1,British Home Championship
+35,1885-02-28,England,Northern Ireland,4,0,British Home Championship
+36,1885-03-14,England,Wales,1,1,British Home Championship
+37,1885-03-14,Scotland,Northern Ireland,8,2,British Home Championship
+38,1885-03-21,England,Scotland,1,1,British Home Championship
+39,1885-03-23,Wales,Scotland,1,8,British Home Championship
+40,1885-04-11,Northern Ireland,Wales,2,8,British Home Championship
+41,1885-11-28,United States,Canada,0,1,Friendly
+42,1886-02-27,Wales,Northern Ireland,5,0,British Home Championship
+43,1886-03-13,Northern Ireland,England,1,6,British Home Championship
+44,1886-03-20,Northern Ireland,Scotland,2,7,British Home Championship
+45,1886-03-27,Scotland,England,1,1,British Home Championship
+46,1886-03-29,Wales,England,1,3,British Home Championship
+47,1886-04-10,Scotland,Wales,4,1,British Home Championship
+48,1886-11-25,United States,Canada,3,2,Friendly
+49,1887-02-05,England,Northern Ireland,7,0,British Home Championship
+50,1887-02-19,Scotland,Northern Ireland,4,1,British Home Championship
+51,1887-02-26,England,Wales,4,0,British Home Championship
+52,1887-03-12,Northern Ireland,Wales,4,1,British Home Championship
+53,1887-03-19,England,Scotland,2,3,British Home Championship
+54,1887-03-21,Wales,Scotland,0,2,British Home Championship
+55,1888-02-04,England,Wales,5,1,British Home Championship
+56,1888-03-03,Wales,Northern Ireland,11,0,British Home Championship
+57,1888-03-10,Scotland,Wales,5,1,British Home Championship
+58,1888-03-17,Scotland,England,0,5,British Home Championship
+59,1888-03-24,Northern Ireland,Scotland,2,10,British Home Championship
+60,1888-04-07,Northern Ireland,England,1,5,British Home Championship
+61,1888-09-19,Scotland,Canada,4,0,Friendly
+62,1889-02-23,England,Wales,4,1,British Home Championship
+63,1889-03-02,England,Northern Ireland,6,1,British Home Championship
+64,1889-03-09,Scotland,Northern Ireland,7,0,British Home Championship
+65,1889-04-13,England,Scotland,2,3,British Home Championship
+66,1889-04-15,Wales,Scotland,0,0,British Home Championship
+67,1889-04-27,Northern Ireland,Wales,1,3,British Home Championship
+68,1890-02-08,Wales,Northern Ireland,5,2,British Home Championship
+69,1890-03-15,Northern Ireland,England,1,9,British Home Championship
+70,1890-03-15,Wales,England,1,3,British Home Championship
+71,1890-03-22,Scotland,Wales,5,0,British Home Championship
+72,1890-03-29,Northern Ireland,Scotland,1,4,British Home Championship
+73,1890-04-05,Scotland,England,1,1,British Home Championship
+74,1891-02-07,Northern Ireland,Wales,7,2,British Home Championship
+75,1891-03-07,England,Wales,4,1,British Home Championship
+76,1891-03-07,England,Northern Ireland,6,1,British Home Championship
+77,1891-03-21,Wales,Scotland,3,4,British Home Championship
+78,1891-03-28,Scotland,Northern Ireland,2,1,British Home Championship
+79,1891-04-06,England,Scotland,2,1,British Home Championship
+80,1892-02-27,Wales,Northern Ireland,1,1,British Home Championship
+81,1892-03-05,Northern Ireland,England,0,2,British Home Championship
+82,1892-03-05,Wales,England,0,2,British Home Championship
+83,1892-03-19,Northern Ireland,Scotland,2,3,British Home Championship
+84,1892-03-26,Scotland,Wales,6,1,British Home Championship
+85,1892-04-02,Scotland,England,1,4,British Home Championship
+86,1893-02-25,England,Northern Ireland,6,1,British Home Championship
+87,1893-03-13,England,Wales,6,0,British Home Championship
+88,1893-03-18,Wales,Scotland,0,8,British Home Championship
+89,1893-03-25,Scotland,Northern Ireland,6,1,British Home Championship
+90,1893-04-01,England,Scotland,5,2,British Home Championship
+91,1894-02-24,Wales,Northern Ireland,4,1,British Home Championship
+92,1894-03-03,Northern Ireland,England,2,2,British Home Championship
+93,1894-03-12,Wales,England,1,5,British Home Championship
+94,1894-03-24,Scotland,Wales,5,2,British Home Championship
+95,1894-03-31,Northern Ireland,Scotland,1,2,British Home Championship
+96,1894-04-07,Scotland,England,2,2,British Home Championship
+97,1895-03-09,England,Northern Ireland,9,0,British Home Championship
+98,1895-03-16,Northern Ireland,Wales,2,2,British Home Championship
+99,1895-03-18,England,Wales,1,1,British Home Championship
+100,1895-03-23,Wales,Scotland,2,2,British Home Championship
+101,1895-03-30,Scotland,Northern Ireland,3,1,British Home Championship
+102,1895-04-06,England,Scotland,3,0,British Home Championship
+103,1896-02-29,Wales,Northern Ireland,6,1,British Home Championship
+104,1896-03-07,Northern Ireland,England,0,2,British Home Championship
+105,1896-03-16,Wales,England,1,9,British Home Championship
+106,1896-03-21,Scotland,Wales,4,0,British Home Championship
+107,1896-03-28,Northern Ireland,Scotland,3,3,British Home Championship
+108,1896-04-04,Scotland,England,2,1,British Home Championship
