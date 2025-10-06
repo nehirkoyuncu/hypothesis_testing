@@ -16,11 +16,11 @@ All matches are assumed to be **independent events**, meaning that factors such 
 
 * **Null Hypothesis (H₀):**
   The mean number of goals scored in women’s World Cup matches is **the same** as in men’s matches.
-  ( \mu_{\text{women}} = \mu_{\text{men}} )
+  
 
 * **Alternative Hypothesis (H₁):**
   The mean number of goals scored in women’s World Cup matches is **greater** than in men’s matches.
-  ( \mu_{\text{women}} > \mu_{\text{men}} )
+ 
 
 This is a **one-tailed** test, as we are specifically testing whether women’s matches produce **more** goals on average.
 
